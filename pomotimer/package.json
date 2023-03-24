@@ -1,0 +1,18 @@
+{
+  "name": "pomotimer",
+  "version": "1.0.0",
+  "description": "pomodoro timer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pomodoro"
+  ],
+  "author": "Aim",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "node-notifier": "^10.0.1"
+  }
+}
